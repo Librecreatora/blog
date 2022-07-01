@@ -5,6 +5,6 @@ baseurl: ""
 url: "librecreatora.github.io"
 github_username:  librecreatora
 
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
