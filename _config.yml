@@ -1,0 +1,11 @@
+title: Your awesome title
+email: your-email@example.com
+description: >-
+  yes This is the the official Librecreatora blog page!.
+baseurl: ""
+url: "librecreatora.github.io"
+github_username:  librecreatora
+
+theme: minima
+plugins:
+  - jekyll-feed
